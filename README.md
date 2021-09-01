@@ -1,6 +1,6 @@
-MERN app where you can create, update and delete a Memory. 
+MERN app where you can create, update and delete a Moment. 
 After authorization you can create a card with a title, description, image and tag. 
-Also you can "like" other user's memory.
+Also you can "like" other user's moments.
 
 Setup:
 
