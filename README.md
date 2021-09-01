@@ -7,4 +7,4 @@ Setup:
 run npm i && npm start for both client and server side to start the app
 
 Here is deployed version:
-https://my-mern-memories-app.herokuapp.com/
+https://my-moments-app.herokuapp.com/
