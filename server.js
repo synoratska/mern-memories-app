@@ -6,7 +6,7 @@ const bodyParser = require('body-parser')
 const cors = require('cors')
 const postRoutes = require('./routes/posts')
 const userRoutes = require('./routes/user')
-const port = process.env.PORT || 5000
+const port = process.env.PORT || 5001
 
 connectDB()
 const app = express()
