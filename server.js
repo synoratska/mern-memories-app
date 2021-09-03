@@ -17,7 +17,7 @@ app.use(cors());
 app.use(express.json())
 
 app.use('/posts', postRoutes);
-app.use("/user", userRoutes);
+app.use('/user', userRoutes);
 
 if(process.env.NODE_ENV === 'production') {
     app.use(express.static('client/build'))
