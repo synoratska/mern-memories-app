@@ -11,6 +11,8 @@ Also you can "like" other user's moments.
 
 [Moments App](https://i.postimg.cc/kX5RGx5S/template.png)
 
+[![template.png](https://i.postimg.cc/kX5RGx5S/template.png)](https://postimg.cc/dDzVSZrQ)
+
 Setup:
 - run npm i && npm start for both client and server side to start the development server
 
